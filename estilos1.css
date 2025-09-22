@@ -1,0 +1,10 @@
+body{
+    background-color: green;
+}
+.container1{
+    background-color: blue;
+    display:flex;
+    border-radius: 5px;
+    padding: 10px;
+    gap: 5px;
+}
