@@ -2,9 +2,10 @@ body{
     background-color: green;
 }
 .container1{
-    background-color: blue;
+    background-color: red;
     display:flex;
     border-radius: 5px;
     padding: 10px;
     gap: 5px;
+
 }
